@@ -16,3 +16,5 @@ Git is free software.
 Git has a mutable index called stage.
 
 My stupid boss still prefers SVN.
+
+2018.12.28 fixed
